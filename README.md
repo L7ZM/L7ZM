@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello, I'm Houssam.
 
-<!--
-**L7ZM/L7ZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub playground! 👨‍💻 Here's a quick rundown:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 20-year-old trainee developer based in Morocco, and I'm new to the programming field. Embarking on this exciting journey, I'm eager to learn, explore, and contribute to the world of coding.
+
+
+## 🌱 Currently Learning
+
+During my journey in the programming field and throughout my internship, my primary focus is on learning the maximum possible. I'm dedicated to absorbing knowledge, gaining hands-on experience, and making the most out of this valuable opportunity.
+
+## 🎉 Hobbies
+
+When I'm not coding, you can find me:
+
+- Playing football
+- Watching anime
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Houssam Elkhalifi](https://www.linkedin.com/in/houssam-elkhalifi/)
+- **Twitter:** [@l7ouzam](https://www.instagram.com/l7ouzam/)
+
+Thanks for dropping by! Let's code together! 🚀
+
