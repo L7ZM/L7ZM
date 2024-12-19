@@ -4,7 +4,7 @@ Welcome to my GitHub playground! 👨‍💻 Here's a quick rundown:
 
 ## 🚀 About Me
 
-I'm a 20-year-old trainee developer based in Morocco, and I'm new to the programming field. Embarking on this exciting journey, I'm eager to learn, explore, and contribute to the world of coding.
+I'm a 21-year-old trainee developer based in Morocco, and I'm new to the programming field. Embarking on this exciting journey, I'm eager to learn, explore, and contribute to the world of coding.
 
 
 ## 🌱 Currently Learning
