@@ -1,37 +1,40 @@
-👋 Hello, I'm Houssam
+# 👋 Hello, I'm Houssam
 
 Welcome to my GitHub! 👨‍💻 Here's a quick intro:
 
-🚀 About Me
+---
 
-I'm Houssam Elkhalifi, a 21-year-old developer trainee from Morocco. I'm passionate about coding and design, and I'm excited to grow in the tech world.
+## 🚀 About Me
 
-🌱 Learning
+I'm **Houssam Elkhalifi**, a 21-year-old developer trainee from Morocco. 
+I'm passionate about coding and design, and I'm excited to grow in the tech world. 🌟
 
-I’m currently focused on:
+---
 
-Angular for frontend
+## 🌱 What I'm Learning
 
-UI/UX design
+Here are my current focus areas:
+- 🖥️ **Frontend Development:** Mastering **Angular**
+- 🎨 **UI/UX Design:** Crafting engaging user experiences
+- 💻 **Backend Development:** Exploring **Spring Boot**
+- 🗄️ **Database Management**: Organizing and optimizing data
 
-Spring Boot for backend
+---
 
-Database management
+## 🎉 Hobbies & Interests
 
-🎉 Hobbies
-
-Outside of coding, I enjoy:
-
-Playing football 🏆
-
-Watching anime 🎥
-
-
-
-📧 Connect with Me
-
-LinkedIn: Houssam Elkhalifi
+When I’m not coding, I love to:
+- ⚽ **Play Football:** Staying active and competitive
+- 🎥 **Watch Anime:** Enjoying immersive stories
 
 
-Thanks for visiting! Let’s build something amazing! 🚀
+---
 
+## 📧 Connect with Me
+
+Feel free to reach out:
+- **LinkedIn:** [Houssam Elkhalifi]
+
+---
+
+Thanks for stopping by! Let’s create something amazing together! 🚀
