@@ -1,135 +1,108 @@
-<div align="center">
+# Houssam EL KHALIFI
 
-# 👋 Hi, I'm Houssam EL KHALIFI
+**Full-Stack Developer** · Java · Spring Boot · Angular · TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%7C+Spring+Boot+%F0%9F%92%BB;Open+to+Global+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+📍 Al Hoceima, Morocco · 🇩🇪 Looking for an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany, start **2027**
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssam-elkhalifi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkhalifihoussam@gmail.com)
-[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Houssam_Elkhalifi/)
-
-<br/>
-
-### 🚀 Full-Stack Developer | 🌍 Based in Morocco | 📍 Open to Worldwide Relocation
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssam-elkhalifi)
+[![Xing](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Houssam_Elkhalifi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elkhalifihoussam@gmail.com)
 
 ---
 
-## 🎯 Quick Overview
+## 🇩🇪 Kurz auf Deutsch
 
-```typescript
-const houssam = {
-  role: "Full-Stack Developer",
-  focus: "Angular & Spring Boot Applications", 
-  status: "Actively seeking opportunities worldwide",
-  openTo: ["Full-time", "Apprenticeship", "Ausbildung", "Working Student"],
-  location: "Ready to relocate immediately"
-};
-```
+Hallo, ich bin Houssam, Full-Stack-Entwickler bei CGI Marokko und arbeite mit Java, Spring Boot und Angular. Ich habe rund drei Jahre Berufserfahrung, zuerst als Praktikant, heute als Entwickler im Scrum-Team.
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" height="250" />
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+Ich suche eine **Ausbildung zum Fachinformatiker für Anwendungsentwicklung in Deutschland ab 2027**, um mich gut zu integrieren, die Arbeitskultur und die Sprache kennenzulernen und einen anerkannten IHK-Abschluss zu erwerben.
+Mein Deutsch: **B1 (ÖSD-Zertifikat)**, ich lerne für **B2**.
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 About me
 
-### 🏢 Full-Stack Developer @ CGI
-*Developing enterprise web applications with modern technologies*
+I am a full-stack developer with about three years of professional experience at **CGI Morocco**, building and maintaining web applications with **Angular** and **Spring Boot**. I started as an intern in June 2023 and have been a full-time developer since March 2025.
 
-- 🎨 **Frontend:** Building responsive UIs with Angular & TypeScript
-- ⚙️ **Backend:** Creating REST APIs with Spring Boot & Java
-- 🗄️ **Database:** Implementing data models with MySQL
-- 🔒 **Security:** JWT authentication with Spring Security
-- 🤝 **Agile:** Collaborating in Scrum teams
+I want to continue my career in Germany through a dual vocational training (Ausbildung) to earn a recognized IHK qualification and to learn the language and the work culture from the inside.
 
----
-
-## 🚀 Featured Project
-
-### 🏨 Hotel Management System
-*Full-stack hotel platform with booking & management capabilities*
-
-**Tech:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Features:** Real-time booking • Guest management • Billing • Analytics
-
-[![Repository](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/L7ZM/Hostelo)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+| | |
+|:--|:--|
+| 🎯 **Looking for** | Ausbildung: Fachinformatiker für Anwendungsentwicklung |
+| 📅 **Available from** | 2027 |
+| 🌍 **Relocation** | Ready to move to Germany (visa for vocational training required) |
+| 🗣️ **Languages** | Arabic (native) · French (professional) · English (working level) · German B1 (ÖSD), B2 in progress |
 
 ---
 
-## 🌍 Opportunities I'm Seeking
+## 🛠️ Tech stack
 
-<div align="center">
-
-| 🎯 Role Type | 🌍 Locations | ✅ Status |
-|:---|:---|:---:|
-| Full-time Developer | Germany, Canada, UAE, USA, Netherlands | 🔥 Preferred |
-| Apprenticeship/Ausbildung | Germany, Austria, Switzerland | ✅ Very Interested |
-| Remote Positions | Global | ✅ Open |
-
-**🗣️ Languages:** Arabic (Native), French (Professional), English (Professional), German (Learning)
-
-</div>
+| | |
+|:--|:--|
+| **Languages** | Java · TypeScript · JavaScript · SQL |
+| **Frameworks** | Angular · Spring Boot · Spring Security |
+| **Databases** | PostgreSQL · MySQL |
+| **Tools & DevOps** | Git · GitLab · Maven · Docker · Jira · SonarQube · Checkstyle |
+| **Testing** | JUnit · Mockito |
+| **Methods** | Agile / Scrum · OOP · MVC · REST APIs · Clean Code |
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Experience
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=L7ZM&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7ZM&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+### Full-Stack Developer, CGI Morocco (03/2025 – present)
+- Developing and maintaining web applications with Angular and Spring Boot
+- Building new Angular components, services and signals; implementing route guards and routing configuration; introducing internationalization (i18n)
+- Fixing bugs and building features based on user feedback; backend fixes, small feature changes and API integration
+- Improving code quality with SonarQube and Checkstyle
+- Working in a Scrum team with sprint planning, Jira ticket management, GitLab and Maven
 
-<br/>
-
-<div align="center">
-  
-![GitHub Snake Dark](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssam-elkhalifi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkhalifihoussam@gmail.com)
-[![Xing](https://img.shields.io/badge/-Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Houssam_Elkhalifi/)
-
-<br/>
-
-### 🎯 Open To:
-**Full-time Roles • Apprenticeships • Working Student • Remote Work**
-
-</div>
+### Software Developer Intern, CGI Morocco (06/2023 – 02/2025)
+- Self-study in Angular, Java and modern development practices (CGI Academy)
+- Bug fixing, unit tests (JUnit / Mockito) and quality assurance
+- Applying clean-code principles together with experienced developers
+- Writing technical documentation
 
 ---
 
-<div align="center">
+## 🚀 Featured project: Hostelo
 
-![Profile Views](https://komarev.com/ghpvc/?username=L7ZM&color=blueviolet&style=flat-square)
+**A full-stack hotel management system** with booking, guest management, billing and analytics.
 
-### ⚡ Ready to bring my skills and learn in your team!
+**Tech:** Java · Spring Boot · Spring Security · Angular · PostgreSQL · JWT · Swagger · Bootstrap
 
-</div>
+**What I built**
+- User management with **JWT authentication**
+- **REST API** with **Swagger** documentation
+- Relational **PostgreSQL** database schema
+- Angular modules for **bookings, user management and a dashboard**
+- Real-time booking, guest management, billing and analytics features
+
+[![Repository](https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/L7ZM/Hostelo)
+
+<!--
+TODO: add screenshots after running the project again.
+1. Create a folder "screenshots" in the Hostelo repository and upload the images.
+2. Then replace this comment with, for example:
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/L7ZM/Hostelo/main/screenshots/dashboard.png" width="45%" />
+     <img src="https://raw.githubusercontent.com/L7ZM/Hostelo/main/screenshots/booking.png" width="45%" />
+   </p>
+-->
+
+---
+
+## 🎓 Education & certificates
+
+- **University diploma, Software Development** (application management services), UEMF in cooperation with CGI, Fès (2024–2025), dual model
+- **Higher technical diploma (BTS), Information Systems Development**, Al Badissi High School, Al Hoceima (2020–2022)
+- **Baccalauréat, Physics** (2020)
+- **ÖSD Zertifikat B1 Deutsch** (2026)
+- **Career Essentials in Software Development**, Microsoft & LinkedIn Learning (2024)
+
+---
+
+## 📫 Contact
+
+Open to Ausbildung opportunities in Germany starting 2027.
+
+📧 [elkhalifihoussam@gmail.com](mailto:elkhalifihoussam@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/houssam-elkhalifi) · 🧑‍💼 [Xing](https://www.xing.com/profile/Houssam_Elkhalifi/)
